@@ -10,6 +10,7 @@ License:	GPL
 Group:		Networking/Other
 Source0:	ftp://ftp.gncz.cz/pub/linux/hunt/%{name}-%{version}.tar.bz2
 Url:		http://lin.fsid.cvut.cz/~kra/index.html#HUNT
+BuildRoot:	%{_tmppath}/%{name}-buildroot
 
 %description
 Hunt is a program for intruding into a connection, watching it and
