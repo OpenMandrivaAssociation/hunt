@@ -1,6 +1,6 @@
 %define name hunt
 %define version 1.5
-%define release %mkrel 9
+%define release 10
 
 Summary: Connection intruder
 Name: %name	
