@@ -1,6 +1,6 @@
 %define name hunt
 %define version 1.5
-%define release 10
+%define release 11
 
 Summary: Connection intruder
 Name: %name	
